@@ -1,3 +1,6 @@
+# Tiny File Manager汉化版
+此分支为Tiny File Manager做了简单汉化处理，仅支持简体中文
+![Alt text](doc/screenshot-zh_cn.jpg)
 # Tiny File Manager
 Lightweight file manager for Windows.
 
