@@ -34,12 +34,12 @@
 Toolbar::ToolbarBtn Toolbar::buttons[] = {
     //{ L"Back",          0,  &Toolbar::dummyProc   },
     //{ L"Forward",       1,  &Toolbar::dummyProc   },
-    { L"Up",            2,  &Toolbar::actUp,        true  },
-    { L"Copy",          3,  &Toolbar::actCopy       },
-    { L"Cut",           4,  &Toolbar::actCut        },
-    { L"Paste",         5,  &Toolbar::actPaste      },
-    { L"Delete",        6,  &Toolbar::actDelete,    true  },
-    { L"New Folder",    7,  &Toolbar::actNewFolder  }
+    { L"返回",            2,  &Toolbar::actUp,        true  },
+    { L"复制",          3,  &Toolbar::actCopy       },
+    { L"剪切",           4,  &Toolbar::actCut        },
+    { L"粘贴",         5,  &Toolbar::actPaste      },
+    { L"删除",        6,  &Toolbar::actDelete,    true  },
+    { L"新建文件夹",    7,  &Toolbar::actNewFolder  }
 };
 
 static const wchar_t InstanceProp[] = L"INSTANCE";
