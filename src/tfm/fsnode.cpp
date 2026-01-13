@@ -29,9 +29,9 @@
 // Special nodes display names
 std::wstring FSNode::SpecialDisplayNames[SPECIAL_TYPE_LAST] = {
     L"",
-    L"Desktop",
-    L"My Documents",
-    L"Computer"
+    L"桌面",
+    L"文档",
+    L"我的电脑"
 };
 
 // Special nodes paths
