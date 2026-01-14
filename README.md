@@ -4,6 +4,7 @@
 编译时需注意在属性中把"将警告视为错误"设置为否，并且不使用预编译头
 
 程序可运行于Wine环境
+![Alt text](doc/screenshot-run-on-wine.jpg)
 # Tiny File Manager
 Lightweight file manager for Windows.
 
