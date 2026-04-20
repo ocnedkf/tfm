@@ -491,7 +491,7 @@ ContentView::actRename()
         return;
     }
 
-    InputDialog dialog(L"Rename", L"Enter new name:");
+    InputDialog dialog(L"重命名", L"输入新的名称:");
     dialog.setInitText(fsnode->getDisplayName());
     dialog.setSelectAllOnInit(true);
     dialog.show();
